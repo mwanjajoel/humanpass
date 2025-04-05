@@ -9,12 +9,12 @@ README = (HERE / "README.md").read_text()
 
 # This does all the work once called
 setup(
-    name="passgen",
+    name="humanpass",
     version="1.0.0",
     description="This is a package for generating random secure passwords for humans.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/mwanjajoel/passgen",
+    url="https://github.com/mwanjajoel/humanpass",
     author="mwanjajoel",
     author_email="joelsilverworks@gmail.com",
     license="MIT",

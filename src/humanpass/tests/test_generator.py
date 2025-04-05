@@ -1,5 +1,5 @@
 import unittest
-from passgen.generator import PasswordGenerator
+from humanpass.generator import PasswordGenerator
 
 class TestPasswordGenerator(unittest.TestCase):
     def test_default_length(self):

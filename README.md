@@ -1,6 +1,6 @@
-# Passgen
+# HumanPass
 
-**Passgen** is a Python package designed to generate secure, customizable passwords suitable for various applications.
+**HumanPass** is a Python package designed to generate secure, customizable passwords suitable for various applications.
 
 ## Features
 
@@ -10,10 +10,10 @@
 
 ## Installation
 
-Install passgen using pip:
+Install humanpass using pip:
 
 ```bash
-pip install passgen
+pip install humanpass
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ password = password_generator.generate()
 You can also customize the password generator by setting the following parameters:
 
 ```python
-from passgen import PasswordGenerator
+from humanpass import PasswordGenerator
 
 # Create a password generator with custom settings
 password_generator = PasswordGenerator(
