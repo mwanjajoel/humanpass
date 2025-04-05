@@ -19,7 +19,7 @@ pip install humanpass
 ## Usage
 
 ```python
-from passgen import PasswordGenerator
+from humanpass import PasswordGenerator
 
 # Create a password generator with default settings
 password_generator = PasswordGenerator()
