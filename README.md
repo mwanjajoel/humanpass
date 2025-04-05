@@ -1,6 +1,6 @@
 # Passgen
 
-**passgen** is a Python package designed to generate secure, customizable passwords suitable for various applications.
+**Passgen** is a Python package designed to generate secure, customizable passwords suitable for various applications.
 
 ## Features
 
